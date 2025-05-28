@@ -1,0 +1,16 @@
+body {
+  background-color: #f5f6fa;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+h1, h3 {
+  font-weight: 600;
+}
+
+.btn {
+  min-width: 120px;
+}
